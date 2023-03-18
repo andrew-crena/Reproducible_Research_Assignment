@@ -2,9 +2,9 @@
 title: "Rep_Res_Proj"
 author: "Andrew Crena"
 date: "2023-03-18"
-output:
-  pdf_document: default
-  html_document: default
+output: 
+  html_document:
+    keep_md: true
 ---
 # Reproducible Research Assignment
 
